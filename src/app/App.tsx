@@ -1,15 +1,13 @@
-
 import './App.css'
-import {Header} from "@/common/components/index.ts";
+import {Header} from "@/common/components/";
 
 function App() {
 
   return (
     <>
-      <Header />
+      <Header/>
     </>
   )
-
 }
 
 export default App
